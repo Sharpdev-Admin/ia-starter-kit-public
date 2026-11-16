@@ -28,8 +28,8 @@ message, word for word.
 Look for an existing dossier (`grep -ril` on the name, the address and the account in
 `dossiers/`). If the person is already a member, stop and say so: this is not a prospect.
 Otherwise create or update `dossiers/prospects/<slug>.md` from
-`dossiers/_template-fiche-prospect.md`: what they are looking for, origin, `etape`, and
-`prochaine_relance` set three days ahead.
+`dossiers/_template-fiche-prospect.md`: what they are looking for, origin, and `etape`.
+`prochaine_relance` stays empty until a reply is sent (Step 5 sets it).
 
 ## Step 3 — Build the answer from the owner's facts
 

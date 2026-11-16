@@ -163,6 +163,8 @@ the sections above:
 - **Prospect or member.** A person who writes for the first time and is not in
   `dossiers/membres/` is a prospect. A list of members arrives through `/suivi-membres`
   (« mets à jour mes membres »), never row by row through `/ingest-inbox`.
+- A file the owner attaches in the conversation is a deposit: copy it into `_inbox/` under a
+  dated name, then process it as `/ingest-inbox` does. The owner never has to open GitHub.
 - Messages arriving by Instagram or WhatsApp come in as screenshots in `_inbox/`; transcribe the
   text into the fiche word for word. Their replies are drafted as files and shown in the chat in
   a code block.

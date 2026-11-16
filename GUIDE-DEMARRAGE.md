@@ -27,6 +27,10 @@ mets-la en place, et étends ensuite.
 Si tu n'arrives pas à brancher ta boîte mail, ce n'est pas bloquant : dépose les messages à
 traiter dans `_inbox/` (un copier-coller du texte ou une capture d'écran suffit).
 
+**Comment déposer un fichier.** Joins-le à ton message dans la conversation avec Claude (le
+bouton pour ajouter un fichier ou une photo), et écris « range ça ». Claude le place dans
+`_inbox/` et le traite. Tu n'as pas besoin d'ouvrir GitHub.
+
 ## Étape 1 — Observation (deux semaines)
 
 Objectif : Claude apprend tes demandes et ta façon d'y répondre, sans rien envoyer.
