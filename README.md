@@ -31,7 +31,8 @@ Tu n'as pas besoin de savoir coder. Tu parles à Claude en français, comme à u
 
 1. Prends un abonnement Claude Pro : https://claude.ai/upgrade
 2. Crée un compte GitHub gratuit : https://github.com/signup
-3. Copie le kit : sur la page du kit, clique « Use this template », puis « Create a new
+3. Copie le kit : ouvre https://github.com/Sharpdev-Admin/ia-starter-kit-public, clique
+   « Use this template », puis « Create a new
    repository », et choisis **Private**. N'utilise pas « Fork » : une copie faite avec « Fork »
    est publique, et tes mails et tes fiches membres seraient visibles par tout le monde.
 4. Ouvre https://claude.ai/code, autorise GitHub et choisis ta copie du kit.
