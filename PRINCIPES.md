@@ -40,7 +40,8 @@ membres ont une blessure au genou ? », Claude parcourt les fiches.
 | 3 | préparer des brouillons avec le destinataire ; tu cliques « Envoyer » | envoyer |
 | 4 | envoyer, pour les catégories que tu as listées | envoyer autre chose, supprimer |
 
-Toi seul changes le niveau, dans `contexte/niveau-de-confiance.md`.
+Toi seul décides d'un changement de niveau : tu le dis à Claude, il répète ce qui va changer,
+attend ton oui et le note dans `contexte/niveau-de-confiance.md`. Il ne te le propose jamais.
 
 ## 7. Des employés spécialisés, pas un chef d'orchestre
 

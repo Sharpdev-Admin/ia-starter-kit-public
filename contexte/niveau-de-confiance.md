@@ -1,6 +1,8 @@
 # Niveau de confiance accordé à Claude
 
-> **Moi seul modifie ce fichier.** Claude le lit à chaque session et s'y tient. Une catégorie
+> **Moi seul décide d'un changement.** Je le dicte à Claude (« passe les demandes d'essai au
+> niveau 2 ») : il répète ce qui va changer, attend mon oui, l'écrit et note ma phrase dans
+> l'historique. Il ne propose jamais lui-même de monter. Claude lit ce fichier à chaque session. Une catégorie
 > absente du tableau est au niveau 1.
 
 ## Les niveaux

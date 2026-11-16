@@ -38,7 +38,9 @@ Tu n'as pas besoin de savoir coder. Tu parles à Claude en français, comme à u
 4. Ouvre https://claude.ai/code, autorise GitHub et choisis ta copie du kit.
 5. Colle le texte de `PROMPT-INSTALLATION.md` comme premier message. Claude te pose une vingtaine
    de questions et se configure.
-6. Branche ta boîte mail et ton agenda : https://claude.ai/settings/connectors
+6. Facultatif, plus tard : brancher ta boîte mail et ton agenda
+   (https://claude.ai/settings/connectors). Pour commencer, tu joins simplement les messages à
+   traiter dans la conversation.
 
 Ensuite, suis `GUIDE-DEMARRAGE.md` : il donne le plan semaine par semaine.
 
@@ -58,12 +60,25 @@ Ensuite, suis `GUIDE-DEMARRAGE.md` : il donne le plan semaine par semaine.
 | `tasks/lessons.md` | Ce que Claude a appris de tes corrections. |
 | `secrets/` | Tes identifiants. Ce dossier n'est jamais envoyé sur GitHub. |
 
-## Données de tes membres
+## Données de tes membres — à lire avant d'installer
 
-Ce dossier contient des informations personnelles : noms, coordonnées, parfois des informations
-de santé (blessure, contre-indication). Trois règles :
+Ce dossier contient des informations personnelles : noms, coordonnées, historique. Il passe par
+deux services, GitHub et Claude. Cinq règles :
 
-- ta copie du kit reste **privée** ;
-- tu ne notes sur la santé d'un membre que ce qui sert à adapter ses séances, et tu le préviens ;
-- quand un membre part et te le demande, tu dis à Claude « supprime le dossier de … » : il te
-  montre ce qu'il va retirer et attend ton accord.
+1. **Ce kit est fait pour une activité sportive.** Si tu es soignant, psychologue ou avocat, ne
+   l'utilise pas pour des données de patients ou de clients : le secret professionnel ne le
+   permet pas en l'état.
+2. **Ta copie reste privée**, avec la double authentification activée sur GitHub.
+3. **Coupe le réglage d'entraînement de Claude** avant de commencer :
+   https://claude.ai/settings/data-privacy-controls — désactive l'utilisation de tes
+   conversations pour améliorer le modèle.
+4. **Santé : le moins possible.** Tu ne notes qu'une consigne utile à la séance (« pas de
+   saut »), jamais un diagnostic, et seulement si la personne t'a donné son accord par écrit.
+   Rien sur un mineur sans l'accord de son responsable légal.
+5. **Effacer n'est pas immédiat.** Quand un membre te demande de supprimer ses données, dis à
+   Claude « supprime le dossier de … » : il te montre ce qu'il retire et attend ton accord. Les
+   fichiers disparaissent, mais l'historique du dépôt garde les anciennes versions : pour un
+   effacement complet, demande à la personne qui t'accompagne de purger l'historique.
+
+Préviens tes membres par écrit que tu utilises ces outils. Ce kit ne remplace pas l'avis d'un
+juriste sur tes obligations.

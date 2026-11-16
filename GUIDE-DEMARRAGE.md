@@ -7,7 +7,7 @@ mets-la en place, et étends ensuite.
 
 | Étape | Durée | Ce que fait Claude | Ce que tu fais | Niveau de confiance |
 |---|---|---|---|---|
-| 0. Installation | 1 heure | Te pose des questions, remplit `contexte/` | Tu réponds, tu branches ta boîte mail et ton agenda | — |
+| 0. Installation | 1 heure | Te pose des questions, remplit `contexte/` | Tu réponds, tu déposes tes premiers documents | — |
 | 1. Observation | 2 semaines | Trie les demandes, crée les fiches, te donne le point du matin | Tu réponds toi-même, comme d'habitude | 1 |
 | 2. Brouillons | 1 à 2 semaines | Prépare les réponses aux prospects et les relances | Tu relis, corriges, envoies | 2 puis 3 |
 | 3. Production | en continu | Prépare séances, publications, bilan de la semaine | Tu valides, tu recadres | 3 |
@@ -45,8 +45,8 @@ Objectif : Claude apprend tes demandes et ta façon d'y répondre, sans rien env
 
 Objectif : Claude rédige, tu décides.
 
-- Dans `contexte/niveau-de-confiance.md`, passe la catégorie « demande d'essai » au niveau 2,
-  puis 3.
+- Dis à Claude : « passe les demandes d'essai au niveau 2 ». Il répète ce qui change et attend
+  ton oui. Plus tard, de la même façon, au niveau 3.
 - « réponds à ce prospect » : Claude prépare la réponse avec tes vrais créneaux et tarifs.
 - « qui je dois relancer ? » : Claude liste les essais sans suite, les membres absents depuis
   trois semaines et les abonnements qui se terminent, avec un brouillon pour chacun.
